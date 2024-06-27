@@ -1,2 +1,4 @@
-##clase 1
-###ejercicio 1 
+## clase 1
+### ejercicio 1 
+
+texto
