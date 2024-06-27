@@ -1,4 +1,4 @@
-## clase 1
-### ejercicio 1 
+## Clase 1
+### EJERCICIO 1 
 
-texto
+El peso de 1 nube es de 1KG por metro cubico.
